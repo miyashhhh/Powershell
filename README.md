@@ -23,5 +23,5 @@ C:\Users\{USERNAME}\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
 Copy Paste oh-my-posh theme file to the directory specified
 
 ```
-C:\Users\KR1TABYTE\AppData\Local\Programs\oh-my-posh\themes\
+C:\Users\{USERNAME}\AppData\Local\Programs\oh-my-posh\themes\
 ```
